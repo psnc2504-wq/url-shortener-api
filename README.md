@@ -215,9 +215,9 @@ GitHub Actions automatically:
 
 ## Swagger UI
 
-![Swagger UI](Screenshots/swagger-ui-1.png)
-![Swagger UI](Screenshots/swagger-ui-2.png)
-![Swagger UI](Screenshots/swagger-ui-3.png)
+![Swagger UI](screenshots/swagger-ui-1.png)
+![Swagger UI](screenshots/swagger-ui-2.png)
+![Swagger UI](screenshots/swagger-ui-3.png)
 
 
 
@@ -225,13 +225,16 @@ GitHub Actions automatically:
 
 ## GitHub Actions
 
-![GitHub Actions](Screenshots/github-actions.png)
+![GitHub Actions](screenshots/github-actions.png)
 
 ---
 
 ## Project Structure
 
-![Project Structure](Screenshots/project-structure.png)
+![Project Structure](screenshots/project-structure.png)
+
+## PostGre table
+![Postgre tale](screenshots/postgre-table.png)
 
 ## 👨‍💻 Author
 

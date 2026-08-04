@@ -208,6 +208,27 @@ GitHub Actions automatically:
 
 ---
 
+
+---
+
+# Screenshots
+
+## Swagger UI
+
+![Swagger UI](screenshots/swagger-ui.png)
+
+---
+
+## GitHub Actions
+
+![GitHub Actions](screenshots/github-actions.png)
+
+---
+
+## Project Structure
+
+![Project Structure](screenshots/project-structure.png)
+
 ## 👨‍💻 Author
 
 **Surya Narayan**

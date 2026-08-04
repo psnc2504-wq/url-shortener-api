@@ -215,19 +215,23 @@ GitHub Actions automatically:
 
 ## Swagger UI
 
-![Swagger UI](screenshots/swagger-ui.png)
+![Swagger UI](Screenshots/swagger-ui-1.png)
+![Swagger UI](Screenshots/swagger-ui-2.png)
+![Swagger UI](Screenshots/swagger-ui-3.png)
+
+
 
 ---
 
 ## GitHub Actions
 
-![GitHub Actions](screenshots/github-actions.png)
+![GitHub Actions](Screenshots/github-actions.png)
 
 ---
 
 ## Project Structure
 
-![Project Structure](screenshots/project-structure.png)
+![Project Structure](Screenshots/project-structure.png)
 
 ## 👨‍💻 Author
 
